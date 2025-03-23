@@ -1,35 +1,35 @@
 # IEEE UACh
 
-Este repositorio tiene como propósito guardar archivos y recursos gráficos relacionados con la **Rama Estudiantil IEEE de la Universidad Austral de Chile**. 
+Este repositorio fue creado con el propósito almacenar archivos y recursos gráficos relacionados con la **Rama Estudiantil IEEE de la Universidad Austral de Chile**.  
 
-Página Web: https://studentbranches.ieee.org/cl-uach/
+Página web: https://studentbranches.ieee.org/cl-uach/
 
 ---
 ## Guidelines
 
 Antes de utilizar los logos vinculados a la IEEE, se recomienda leer los siguiente documentos.
 
-* General:
+* **General**:
 
 	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE-Brand-Identity-Guidelines_2025.pdf">IEEE Brand Identity Guidelines (2025)</a> | (**Actualizado**) Proporciona información acerca de la organización IEEE, directrices de uso de la marca corporativa, y contiene un manual de estilo gráfico detallado.
 
 	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE-Geographic-Communities-Identity-Guidelines.pdf">IEEE Geographic Communities Identity Guidelines</a> | 
 Proporciona las directrices existentes para Regiones, Secciones, Capítulos Técnicos, Ramas y Capítulos de Estudiantes, y Grupos de Afinidad.
 
-* Capítulos:
+* **Capítulos**:
 
 	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE_RAS_Logo-Guidelines.pdf">IEEE Robotics & Automation Society Logo Guidelines</a> | Proporciona información importante acerca del uso correcto del logo del capítulo estudiantil RA.
 
 	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE_EMBS-Visual-Identity-Guidelines.pdf">IEEE Engineering Medicine and Biology Society Visual Identity Guidelines</a> | Proporciona información importante acerca del uso correcto del logo del capítulo estudiantil EMB.
 
-* Grupo de Afinidad:
+* **Grupo de Afinidad**:
 
-	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE_EMBS-Visual-Identity-Guidelines.pdf">IEEE Women in Engineering Identity Guidelines</a> | Proporciona información importante acerca del uso correcto del logo del grupo de afinidad WIE.
+	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE_WIE_Brand-Guidelines.pdf">IEEE Women in Engineering Identity Guidelines</a> | Proporciona información importante acerca del uso correcto del logo del grupo de afinidad WIE.
 
 ---
-## Logos FCI & UACh
+## Logos UACh
 
-Los logos de la **Facultad de Ciencias de la Ingeniería** y de la **Universidad Austral de Chile** pueden ser encontrados en el siguiente repositorio:
+Los logos propios de la *Facultad de Ciencias de la Ingeniería*, de la *Universidad Austral de Chile* y de la carrera de *Ingeniería Civil Electrónica* pueden ser encontrados en el siguiente repositorio:
 
 Link: https://github.com/aretesatori/Logos-UACh
 
@@ -77,6 +77,49 @@ Link: https://github.com/aretesatori/Logos-UACh
 * <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/1024w/Logo-IEEE-White_1024x583.png">**Descargar PNG**</a> (1024 x 583 px)  
 
 * <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/2048w/Logo-IEEE-White_2048x1166.png">**Descargar PNG**</a> (2048 x 1166 px)  
+
+---
+
+<p align="center">
+	<img src="Logos/IEEE/1024w/Logo-IEEE-Small-Color_1024x299.png" alt="Logo IEEE Small • Color" width="80%" />
+</p>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/SVG/Logo-IEEE-Small-Color.svg">**Descargar SVG**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/PDF/Logo-IEEE-Small-Color.pdf">**Descargar PDF**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/1024w/Logo-IEEE-Small-Color_1024x299.png">**Descargar PNG**</a> (1024 x 299 px)  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/2048w/Logo-IEEE-Small-Color_2048x597.png">**Descargar PNG**</a> (2048 x 597 px)  
+
+---
+
+<p align="center">
+	<img src="Logos/IEEE/1024w/Logo-IEEE-Small-Black_1024x299.png" alt="Logo IEEE Small • Black" width="80%" />
+</p>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/SVG/Logo-IEEE-Small-Black.svg">**Descargar SVG**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/PDF/Logo-IEEE-Small-Black.pdf">**Descargar PDF**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/1024w/Logo-IEEE-Small-Black_1024x299.png">**Descargar PNG**</a> (1024 x 299 px)  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/2048w/Logo-IEEE-Small-Black_2048x597.png">**Descargar PNG**</a> (2048 x 597 px)  
+
+---
+
+<p align="center">
+	<img src="Logos/IEEE/1024w/Logo-IEEE-Small-White_1024x299.png" alt="Logo IEEE Small • White" width="80%" />
+</p>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/SVG/Logo-IEEE-Small-White.svg">**Descargar SVG**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/PDF/Logo-IEEE-Small-White.pdf">**Descargar PDF**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/1024w/Logo-IEEE-Small-White_1024x299.png">**Descargar PNG**</a> (1024 x 299 px)  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE/2048w/Logo-IEEE-Small-White_2048x597.png">**Descargar PNG**</a> (2048 x 597 px)  
+
 
 ---
 ### IEEE Robotics and Automation Society (RAS)

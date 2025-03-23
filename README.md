@@ -13,8 +13,9 @@ Antes de utilizar los logos vinculados a la IEEE, se recomienda leer los siguien
 
 	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE-Brand-Identity-Guidelines_2025.pdf">IEEE Brand Identity Guidelines (2025)</a> | (**Actualizado**) Proporciona información acerca de la organización IEEE, directrices de uso de la marca corporativa, y contiene un manual de estilo gráfico detallado.
 
-	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE-Geographic-Communities-Identity-Guidelines.pdf">IEEE Geographic Communities Identity Guidelines</a> | 
-Proporciona las directrices existentes para Regiones, Secciones, Capítulos Técnicos, Ramas y Capítulos de Estudiantes, y Grupos de Afinidad.
+	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE-Geographic-Communities-Identity-Guidelines.pdf">IEEE Geographic Communities Identity Guidelines</a> | Proporciona las directrices existentes para Regiones, Secciones, Capítulos Técnicos, Ramas y Capítulos de Estudiantes, y Grupos de Afinidad.
+
+	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE-Color-Guide.pdf">IEEE Color Guide</a> | Contiene la paleta de colores oficial de la IEEE.
 
 * **Capítulos**:
 
@@ -263,6 +264,64 @@ Link: https://github.com/aretesatori/Logos-UACh
 * <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE-Women-in-Engineering/1024w/Logo-IEEE-WIE-White_1024x793.png">**Descargar PNG**</a> (1024 x 793 px)  
 
 * <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE-Women-in-Engineering/2048w/Logo-IEEE-WIE-White_2048x1856.png">**Descargar PNG**</a> (2048 x 1856 px)  
+
+---
+### IEEEXtreme
+
+<p align="center">
+	<img src="Logos/IEEEXtreme/1024w/Logo-IEEEXtreme-Color_1024x474.png" alt="Logo IEEEXtreme • Color" width="80%" />
+</p>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/SVG/Logo-IEEEXtreme-Color.svg">**Descargar SVG**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/PDF/Logo-IEEEXtreme-Color.pdf">**Descargar PDF**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/1024w/Logo-IEEEXtreme-Color_1024x474.png">**Descargar PNG**</a> (1024 x 474 px)  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/2048w/Logo-IEEEXtreme-Color_2048x947.png">**Descargar PNG**</a> (2048 x 947 px)  
+
+---
+
+<p align="center">
+	<img src="Logos/IEEEXtreme/1024w/Logo-IEEEXtreme-Black_1024x474.png" alt="Logo IEEEXtreme • Black" width="80%" />
+</p>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/SVG/Logo-IEEEXtreme-Black.svg">**Descargar SVG**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/PDF/Logo-IEEEXtreme-Black.pdf">**Descargar PDF**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/1024w/Logo-IEEEXtreme-Black_1024x474.png">**Descargar PNG**</a> (1024 x 474 px)  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/2048w/Logo-IEEEXtreme-Black_2048x947.png">**Descargar PNG**</a> (2048 x 947 px)  
+
+---
+
+<p align="center">
+	<img src="Logos/IEEEXtreme/1024w/Logo-IEEEXtreme-White_1024x474.png" alt="Logo IEEEXtreme • White" width="80%" />
+</p>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/SVG/Logo-IEEEXtreme-White.svg">**Descargar SVG**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/PDF/Logo-IEEEXtreme-White.pdf">**Descargar PDF**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/1024w/Logo-IEEEXtreme-White_1024x474.png">**Descargar PNG**</a> (1024 x 474 px)  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/2048w/Logo-IEEEXtreme-White_2048x947.png">**Descargar PNG**</a> (2048 x 947 px)  
+
+---
+## IEEE Student Branch UACh Logos
+
+<p align="center">
+	<img src="Logos/IEEE-Student-Branch-UACh/1024w/LogoCentrado-IEEEStudentBranch-Color-FondoBlancoCircular_1024x1024.png" alt="Logo IEEE Student Branch UACh • Color" width="80%" />
+</p>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE-Student-Branch-UACh/SVG/LogoCentrado-IEEEStudentBranch-Color-FondoBlancoCircular.svg">**Descargar SVG**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE-Student-Branch-UACh/PDF/LogoCentrado-IEEEStudentBranch-Color-FondoBlancoCircular.pdf">**Descargar PDF**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE-Student-Branch-UACh/1024w/LogoCentrado-IEEEStudentBranch-Color-FondoBlancoCircular_1024x1024.png">**Descargar PNG**</a> (1024 x 1024 px)  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE-Student-Branch-UACh/2048w/LogoCentrado-IEEEStudentBranch-Color-FondoBlancoCircular_2048x2048.png">**Descargar PNG**</a> (2048 x 2048 px)  
 
 ---
 ## Referencias

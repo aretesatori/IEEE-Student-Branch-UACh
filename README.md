@@ -1,4 +1,4 @@
-# IEEE UACh
+# IEEE Student Branch UACh
 
 Este repositorio fue creado con el propósito almacenar archivos y recursos gráficos relacionados con la **Rama Estudiantil IEEE de la Universidad Austral de Chile**.  
 
@@ -30,7 +30,7 @@ Antes de utilizar los logos vinculados a la IEEE, se recomienda leer los siguien
 ---
 ## Logos UACh
 
-Los logos propios de la *Facultad de Ciencias de la Ingeniería*, de la *Universidad Austral de Chile* y de la carrera de *Ingeniería Civil Electrónica* pueden ser encontrados en el siguiente repositorio:
+Los logos de la *Universidad Austral de Chile*, de la *Facultad de Ciencias de la Ingeniería* y de sus carreras, pueden ser encontrados en el siguiente repositorio:
 
 Link: https://github.com/aretesatori/Logos-UACh
 

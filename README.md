@@ -309,6 +309,22 @@ Link: https://github.com/aretesatori/Logos-UACh
 * <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/2048w/Logo-IEEEXtreme-White_2048x947.png">**Descargar PNG**</a> (2048 x 947 px)  
 
 ---
+## IEEE Chile Sur Section Logos
+
+<p align="center">
+	<img src="Logos/IEEE-Chile-Sur-Section/1024w/IEEEChileSurSection_FlagIdentifier_IEEEBlueColor_1024x219.png" alt="Logo IEEE Chile Sur Section • Color" width="90%" />
+</p>
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE-Chile-Sur-Section/SVG/IEEEChileSurSection_FlagIdentifier_IEEEBlueColor.svg">**Descargar SVG**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE-Chile-Sur-Section/PDF/IEEEChileSurSection_FlagIdentifier_IEEEBlueColor.pdf">**Descargar PDF**</a>  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE-Chile-Sur-Section/1024w/IEEEChileSurSection_FlagIdentifier_IEEEBlueColor_1024x219.png">**Descargar PNG**</a> (1024 x 219 px)  
+
+* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEE-Chile-Sur-Section/2048w/IEEEChileSurSection_FlagIdentifier_IEEEBlueColor_2048x437.png">**Descargar PNG**</a> (2048 x 437 px)  
+
+
+---
 ## IEEE Student Branch UACh Logos
 
 <p align="center">

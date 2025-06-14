@@ -1,13 +1,13 @@
 # IEEE Student Branch UACh
 
-Este repositorio fue creado con el propósito almacenar archivos y recursos gráficos relacionados con la **Rama Estudiantil IEEE de la Universidad Austral de Chile**.  
+Este repositorio fue creado con el propósito almacenar archivos y recursos gráficos relacionados con la **Rama Estudiantil IEEE de la Universidad Austral de Chile**. Además, contiene logos oficiales del IEEE, de los Capítulos Estudiantiles RAS y EMBS, Grupo de Afinidad WIE, logos de la Región 9, Sección Chile Sur, entre otros.
 
-Página web: https://studentbranches.ieee.org/cl-uach/
+Página web de la Rama Estudiantil: https://studentbranches.ieee.org/cl-uach/
 
 ---
 ## Guidelines
 
-Antes de utilizar los logos vinculados a la IEEE, se recomienda leer los siguiente documentos.
+Antes de utilizar los logos vinculados al IEEE, se recomienda leer los siguiente documentos.
 
 * **General**:
 
@@ -15,24 +15,43 @@ Antes de utilizar los logos vinculados a la IEEE, se recomienda leer los siguien
 
 	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE-Geographic-Communities-Identity-Guidelines.pdf">IEEE Geographic Communities Identity Guidelines</a> | Proporciona las directrices existentes para Regiones, Secciones, Capítulos Técnicos, Ramas y Capítulos de Estudiantes, y Grupos de Afinidad.
 
-	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE-Color-Guide.pdf">IEEE Color Guide</a> | Contiene la paleta de colores oficial de la IEEE.
+	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE-Color-Guide.pdf">IEEE Color Guide</a> | Contiene la paleta de colores oficial del IEEE.
 
 * **Capítulos**:
 
-	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE_RAS_Logo-Guidelines.pdf">IEEE Robotics & Automation Society Logo Guidelines</a> | Proporciona información importante acerca del uso correcto del logo del capítulo estudiantil RA.
+	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE_RAS_Logo-Guidelines.pdf">IEEE Robotics & Automation Society Logo Guidelines</a> | Proporciona información importante acerca del uso correcto del logo del Capítulo Estudiantil RAS.
 
-	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE_EMBS-Visual-Identity-Guidelines.pdf">IEEE Engineering Medicine and Biology Society Visual Identity Guidelines</a> | Proporciona información importante acerca del uso correcto del logo del capítulo estudiantil EMB.
+	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE_EMBS-Visual-Identity-Guidelines.pdf">IEEE Engineering Medicine and Biology Society Visual Identity Guidelines</a> | Proporciona información importante acerca del uso correcto del logo del Capítulo Estudiantil EMBS.
 
 * **Grupo de Afinidad**:
 
-	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE_WIE_Brand-Guidelines.pdf">IEEE Women in Engineering Identity Guidelines</a> | Proporciona información importante acerca del uso correcto del logo del grupo de afinidad WIE.
+	* <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Guidelines/IEEE_WIE_Brand-Guidelines.pdf">IEEE Women in Engineering Identity Guidelines</a> | Proporciona información importante acerca del uso correcto del logo del Grupo de Afinidad WIE.
+
+
+---
+## Índice
+
+* Logos Oficiales
+	* [IEEE](#ieee)
+	* [IEEE Robotics and Automation Society (RAS)](#ieee-robotics-and-automation-society-ras)
+	* [IEEE Engineering Medicine and Biology Society (EMBS)](#ieee-engineering-medicine-and-biology-society-embs)
+	* [IEEE Women in Engineering (WIE)](#ieee-women-in-engineering-wie)
+	* [IEEEXtreme](#ieeextreme)
+
+* [IEEE Chile Sur Section](#ieee-chile-sur-section)
+	* [IEEE Chile Sur Section Flag](#ieee-chile-sur-section-flag)
+
+* [IEEE Student Branch UACh Logos](#ieee-student-branch-uach-logos)
+
+
+
 
 ---
 ## Logos UACh
 
 Los logos de la *Universidad Austral de Chile*, de la *Facultad de Ciencias de la Ingeniería* y de sus carreras, pueden ser encontrados en el siguiente repositorio:
 
-Link: https://github.com/aretesatori/Logos-UACh
+Link: https://github.com/aretesatori/LogosUACh
 
 ---
 ## Logos Oficiales
@@ -309,7 +328,9 @@ Link: https://github.com/aretesatori/Logos-UACh
 * <a href="https://raw.githubusercontent.com/aretesatori/IEEE-UACh/main/Logos/IEEEXtreme/2048w/Logo-IEEEXtreme-White_2048x947.png">**Descargar PNG**</a> (2048 x 947 px)  
 
 ---
-## IEEE Chile Sur Section Logos
+## IEEE Chile Sur Section
+
+### IEEE Chile Sur Section Flag
 
 <p align="center">
 	<img src="Logos/IEEE-Chile-Sur-Section/1024w/IEEEChileSurSection_FlagIdentifier_IEEEBlueColor_1024x219.png" alt="Logo IEEE Chile Sur Section • Color" width="90%" />
